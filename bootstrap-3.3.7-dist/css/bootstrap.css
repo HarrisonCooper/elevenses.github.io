@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+.socialmedia {
+  text-align: center;
+  padding-top: 50px;
+}
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
