@@ -8,6 +8,14 @@
   text-align: center;
 }
 
+.row {
+  display: flex;
+}
+
+.col-sm {
+  padding-right: 10px;
+}
+
 .containerportfolio {
   padding-top: 50px;
 }
