@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: elevenses_github_io_dev
+  host: localhost
+  min_messages: warning
+  username:
+
+test:
+  adapter: postgresql
+  database: elevenses_github_io_test
+  host: localhost
+  min_messages: warning
+  username:
